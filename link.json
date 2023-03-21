@@ -1,4 +1,5 @@
-[
+{
+  "friends": [
   {
     "class_name": "本站框架",
     "flink_style": "flexcard",
@@ -109,4 +110,5 @@
       }
     ]
   }
-]
+    ]
+}
