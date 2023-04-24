@@ -1,0 +1,31 @@
+BLOCK_SITE: []
+DATABASE: sqlite
+DEPLOY_TYPE: github
+GITEE_FRIENDS_LINKS:
+  enable: false
+  owner: ccknbc
+  repo: blogroll
+  state: open
+  type: normal
+GITHUB_FRIENDS_LINKS:
+  enable: false
+  label: active
+  owner: ccknbc
+  repo: ccknbc-actions
+  state: open
+  type: normal
+HTTP_PROXY: false
+LINK:
+- link: https://lizilong1993.github.io/link/
+  theme: butterfly
+- link: https://lizilong.netlify.app/link/
+  theme: butterfly
+MAX_POSTS_NUM: 5
+OUTDATE_CLEAN: 60
+SETTINGS_FRIENDS_LINKS:
+  enable: true
+  json_api: ''
+  list:
+  - - Icarus
+    - https://ppoffice.github.io/hexo-theme-icarus/
+    - https://ppoffice.github.io/hexo-theme-icarus/img/avatar.png
